@@ -1,3 +1,5 @@
+# This fork enables the use of the "Better Battery" Option for some windows laptops (such as the Framework 16)
+
 # PowerMode
 Allows you to change the powermode from the taskbar, like you could in Windows 10 with the slider in the battery menu
 
